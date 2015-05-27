@@ -12,7 +12,7 @@ the near future.
 
 This is a little java library that I created to show `code snippets` in jekyll:
 
-{% highlight javascript %}
+{% highlight js %}
 window.Utils = (function(){
     var utils = {
         /**
