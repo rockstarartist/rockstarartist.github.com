@@ -16,4 +16,5 @@ What we did is allow the user to create groovy scripts in the configuration file
 transformation occurring in the interceptor. Pretty cool stuff.
 
 I found the groovy docs to be very informative here, specifically section 3.13.3:
+
 <a href="http://docs.groovy-lang.org/latest/html/documentation/index.html#_integrating_groovy_in_a_java_application">Groovy Lang Docs - Integrating Groovy into Java</a>
