@@ -10,6 +10,8 @@ first full day session, I was able atleast to enter the tail end of a session on
 quickly facebook just jumped on ES6 and started using it for the applications and frameworks.
 
 A couple things I learned about react:
+
+
 - JSX by convention reads lowercase tags as real HTML tags, and uppercase starting tags are assumed to be react components.
 - A rule of thumb, in regards to handling events, always handle the events inside the same components, makes it easier to
 extend the component. So you change the props of the user selection inside this eventhandler, and you then set a listener

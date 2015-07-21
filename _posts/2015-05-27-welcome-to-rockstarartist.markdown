@@ -10,7 +10,8 @@ I am hoping to begin a repository, a memory map of sorts, conceived of learned l
 down things in which I will fail to recall later on, or materials that I deem of worthy nature and may return to in 
 the near future.
 
-This is a little java library that I created to show `code snippets` in jekyll:
+This is a little JavaScript library that I created to provide me some general `utilities` that I use:
+(I believe this will now need to be updated with ECMA-6 goodies.)
 
 {% highlight js %}
 window.Utils = (function(){
